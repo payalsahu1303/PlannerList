@@ -29,4 +29,4 @@ You can check out the live demo here: [PlannerList](https://plannerlist.netlify.
 ## Clone the repository:
 
    ```bash
-   git clone https://github.com/payalsahu1303/PlannerList.git)
+   git clone https://github.com/payalsahu1303/PlannerList.git
